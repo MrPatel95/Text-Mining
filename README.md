@@ -1,9 +1,5 @@
 # Text-Mining
 
-One Paragraph of project description goes here
-
-## Short Description
-
 This code can be used to assign keywords to documents and find association rules between words from database of documents. Further, with little modifications one can create a document suggestion system using search keywords.
 
 ### Getting Started
